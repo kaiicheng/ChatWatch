@@ -1,5 +1,5 @@
 # ChatWatch: Real-Time Compliance AI Tool
-<img src="Prototype.png" width="80%">
+<img src="Prototype.png" width="90%">
 
 ## Overview
 **ChatWatch** is an AI-powered tool useing Large Language Models (LLMs) to proactively detect non-compliant or unethical behavior in chats and emails. ChatWatch focuses on creating a system that not only supports business clients but also strictly adheres to legal and ethical standards.
